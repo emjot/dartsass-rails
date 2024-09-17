@@ -1,4 +1,6 @@
-# Dart Sass for Rails
+# Dart Sass for Rails (archived emjot fork)
+
+**NOTE: This fork is NO LONGER MAINTAINED since it was used for the ability to add a custom execution path, which is no longer needed in newer versions of dartsass-rails.**
 
 [Sass](https://sass-lang.com) is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax.
 
